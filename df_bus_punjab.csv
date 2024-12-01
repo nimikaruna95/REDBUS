@@ -1,0 +1,796 @@
+Busname,Bustype,Departing_time,Reaching_time,Duration,Price,Seats_available,Star_rating,Route_links,Route_names,State_name
+Indo Canadian Transport Company,Mercedes A/C Semi Sleeper (2+2),23:30,06:30,07h 00m,INR 3300,41 Seats available,4.6,https://www.redbus.in/bus-tickets/delhi-to-patiala,Delhi to Patiala,Punjab
+NueGo,Electric A/C Seater (2+2),23:15,05:05,05h 50m,846,4 Seats available,"4.1
+321",https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Ludhiana to Delhi,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:55,06:15,06h 20m,INR 749,5 Seats available,"4.7
+106",https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Ludhiana to Delhi,Punjab
+New Navyug Travels,A/C Sleeper (2+1),23:00,05:30,06h 30m,INR 875,1 Seat available,"4.4
+65",https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Ludhiana to Delhi,Punjab
+Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:55,06:45,06h 50m,INR 1200,1 Seat available,"4.3
+372",https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Ludhiana to Delhi,Punjab
+IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),23:05,05:15,06h 10m,INR 989,6 Seats available,"4.3
+11",https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Ludhiana to Delhi,Punjab
+Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),23:50,06:40,06h 50m,1258,5 Seats available,"4.7
+237",https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Ludhiana to Delhi,Punjab
+Yolo Bus,VE A/C Seater / Sleeper (2+1),22:27,04:18,05h 51m,INR 1600,2 Seats available,"4.5
+485",https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Ludhiana to Delhi,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:10,05:50,06h 40m,INR 839,6 Seats available,"4.1
+9",https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Ludhiana to Delhi,Punjab
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:10,06:20,07h 10m,INR 909,3 Seats available,"4.7
+96",https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Ludhiana to Delhi,Punjab
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:40,06:20,06h 40m,INR 1029,8 Seats available,"4.4
+13",https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Ludhiana to Delhi,Punjab
+Indo Canadian Transport Company,A/C Semi Sleeper (2+2),23:29,07:00,07h 31m,INR 3300,13 Seats available,4.6,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Ludhiana to Delhi,Punjab
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:45,06:15,06h 30m,INR 1419,7 Seats available,"4.6
+23",https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Ludhiana to Delhi,Punjab
+NueGo,Electric A/C Seater (2+2),00:05,05:55,05h 50m,789,6 Seats available,"3.5
+199",https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Ludhiana to Delhi,Punjab
+ADTC tour and Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),23:40,05:10,05h 30m,INR 1199,1 Seat available,"3.5
+5",https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Ludhiana to Delhi,Punjab
+ADTC tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:55,05:15,05h 20m,INR 1399,2 Seats available,"3.9
+11",https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Ludhiana to Delhi,Punjab
+Armaan Tour & Travels,A/C Seater / Sleeper (2+1),22:50,06:00,07h 10m,INR 649,1 Seat available,"3.3
+54",https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Ludhiana to Delhi,Punjab
+Classic Travels,A/C Seater / Sleeper (2+2),23:30,06:30,07h 00m,INR 389,16 Seats available,"2.3
+125",https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Ludhiana to Delhi,Punjab
+Classic Travels,A/C Seater / Sleeper (2+2),23:55,06:55,07h 00m,INR 389,28 Seats available,"2.3
+115",https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Ludhiana to Delhi,Punjab
+Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),23:50,06:40,06h 50m,INR 1438,5 Seats available,"4.7
+237",https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,Ludhiana to Delhi Airport,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:55,06:15,06h 20m,INR 749,5 Seats available,"4.7
+106",https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,Ludhiana to Delhi Airport,Punjab
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:10,06:20,07h 10m,INR 909,3 Seats available,"4.7
+96",https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,Ludhiana to Delhi Airport,Punjab
+Yolo Bus,VE A/C Seater / Sleeper (2+1),22:27,04:18,05h 51m,INR 1600,2 Seats available,"4.5
+485",https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,Ludhiana to Delhi Airport,Punjab
+NueGo,Electric A/C Seater (2+2),23:15,05:05,05h 50m,INR 871,2 Seats available,"4.1
+321",https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,Ludhiana to Delhi Airport,Punjab
+Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:55,06:45,06h 50m,INR 1200,1 Seat available,"4.3
+372",https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,Ludhiana to Delhi Airport,Punjab
+New Navyug Travels,A/C Sleeper (2+1),23:00,05:30,06h 30m,INR 875,1 Seat available,"4.4
+65",https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,Ludhiana to Delhi Airport,Punjab
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:45,06:15,06h 30m,INR 1419,7 Seats available,"4.6
+23",https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,Ludhiana to Delhi Airport,Punjab
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:40,06:20,06h 40m,INR 1029,8 Seats available,"4.4
+13",https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,Ludhiana to Delhi Airport,Punjab
+IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),23:05,05:15,06h 10m,INR 989,6 Seats available,"4.3
+11",https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,Ludhiana to Delhi Airport,Punjab
+NueGo,Electric A/C Seater (2+2),00:05,05:55,05h 50m,INR 831,6 Seats available,"3.5
+199",https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,Ludhiana to Delhi Airport,Punjab
+Classic Travels,A/C Seater / Sleeper (2+2),23:30,06:30,07h 00m,INR 389,16 Seats available,"2.3
+125",https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,Ludhiana to Delhi Airport,Punjab
+ADTC tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:55,05:15,05h 20m,INR 1399,2 Seats available,"3.9
+11",https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,Ludhiana to Delhi Airport,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:10,05:50,06h 40m,INR 839,6 Seats available,"4.1
+9",https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,Ludhiana to Delhi Airport,Punjab
+ADTC tour and Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),23:40,05:10,05h 30m,INR 1199,1 Seat available,"3.5
+5",https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,Ludhiana to Delhi Airport,Punjab
+Armaan Tour & Travels,A/C Seater / Sleeper (2+1),22:50,06:00,07h 10m,INR 649,1 Seat available,"3.3
+54",https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,Ludhiana to Delhi Airport,Punjab
+Classic Travels,A/C Seater / Sleeper (2+2),23:55,06:55,07h 00m,INR 389,28 Seats available,"2.3
+115",https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,Ludhiana to Delhi Airport,Punjab
+Indo Canadian Transport Company,A/C Semi Sleeper (2+2),23:29,07:00,07h 31m,INR 3300,13 Seats available,4.6,https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,Ludhiana to Delhi Airport,Punjab
+PEPSU (Punjab) - 67121,Volvo AC Seater (2+2),21:00,06:50,09h 50m,INR 1169,39 Seats available,3.7,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+PEPSU (Punjab) - 67121,Volvo AC Seater (2+2),22:20,06:50,08h 30m,INR 1045,39 Seats available,"2.4
+4",https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+PEPSU (Punjab) - 67064,Volvo AC Seater (2+2),23:58,08:58,09h 00m,INR 1169,37 Seats available,"1.8
+4",https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+New Navyug Travels,A/C Sleeper (2+1),22:00,06:10,08h 10m,INR 625,17 Seats available,"4.0
+301",https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:45,08:05,09h 20m,INR 499,14 Seats available,"4.5
+261",https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),22:30,06:25,07h 55m,633,14 Seats available,"4.6
+107",https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+Yolo Bus,VE A/C Seater / Sleeper (2+1),23:50,06:49,06h 59m,INR 820,5 Seats available,"4.5
+119",https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:20,05:55,07h 35m,INR 612,6 Seats available,"4.7
+546",https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:00,07:00,08h 00m,INR 600,18 Seats available,"4.4
+276",https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:00,07:20,08h 20m,INR 559,15 Seats available,"4.3
+68",https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+Deltin Travels Pvt Ltd,Bharat Benz A/C Seater /Sleeper (2+1),22:30,06:46,08h 16m,INR 600,16 Seats available,"4.4
+13",https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:30,08:00,08h 30m,INR 649,5 Seats available,"4.5
+327",https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:15,07:55,09h 40m,INR 669,9 Seats available,"4.7
+87",https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:25,08:05,09h 40m,INR 819,12 Seats available,"4.5
+38",https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+RS YADAV SMART BUS,Volvo Multi Axle B11R AC Seater\Sleeper (2+1),22:40,05:50,07h 10m,INR 549,22 Seats available,"4.4
+74",https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:15,07:15,09h 00m,INR 679,12 Seats available,"4.5
+280",https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+Deltin Travels Pvt Ltd,Bharat Benz A/C Seater /Sleeper (2+1),22:30,06:46,08h 16m,INR 500,25 Seats available,"4.4
+14",https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:00,06:10,08h 10m,INR 660,4 Seats available,"4.3
+303",https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),23:00,08:00,09h 00m,INR 679,5 Seats available,"4.4
+30",https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:00,05:05,08h 05m,INR 689,3 Seats available,"4.4
+121",https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+Yolo Bus,VE A/C Seater / Sleeper (2+1),23:20,07:04,07h 44m,INR 640,6 Seats available,"4.3
+281",https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:40,07:30,07h 50m,INR 600,2 Seats available,"4.5
+303",https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),20:30,05:45,09h 15m,INR 859,2 Seats available,"4.4
+148",https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+FlixBus,Bharat Benz A/C Sleeper (2+1),21:00,05:25,08h 25m,INR 1219.64,3 Seats available,"4.5
+80",https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),19:40,04:10,08h 30m,570,3 Seats available,"4.6
+9",https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:30,06:20,08h 50m,INR 679,9 Seats available,"4.6
+160",https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+Indo Canadian Transport Company,Mercedes A/C Semi Sleeper (2+2),23:30,09:15,09h 45m,INR 3300,41 Seats available,4.6,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),21:20,06:05,08h 45m,INR 649,12 Seats available,"4.1
+9",https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+FlixBus,Bharat Benz A/C Sleeper (2+1),22:30,07:05,08h 35m,INR 955.36,7 Seats available,"4.7
+41",https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),22:00,06:00,08h 00m,618,21 Seats available,"4.3
+9",https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+FlixBus,Bharat Benz A/C Sleeper (2+1),23:30,07:25,07h 55m,INR 926.79,8 Seats available,4.4,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+Banjara Satguru Travels,A/C Seater / Sleeper (2+1),23:15,06:06,06h 51m,676,32 Seats available,"4.3
+7",https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+ADTC tour and Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),22:25,05:00,06h 35m,INR 600,22 Seats available,"3.9
+37",https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+Bhawani Travels,A/C Seater / Sleeper (2+2),23:00,05:40,06h 40m,INR 523.81,6 Seats available,"3.7
+18",https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+Golden Temple Volvo Bus Service,A/C Seater / Sleeper (2+2),23:40,07:15,07h 35m,761,19 Seats available,"3.0
+51",https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+Muskan Tour And Travels private Limited,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),22:40,05:10,06h 30m,599,31 Seats available,"3.6
+34",https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+ADTC tour and Travels,Bharat Benz A/C Seater / Sleeper (2+2),22:30,05:00,06h 30m,INR 600,3 Seats available,3.7,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+Banjara Satguru Travels,A/C Seater / Sleeper (2+2),23:50,06:05,06h 15m,INR 599,33 Seats available,"3.5
+31",https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+Goel Tourist (Regd),A/C Seater / Sleeper (2+2),21:40,04:40,07h 00m,INR 600,31 Seats available,3.1,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+Classic Travels,A/C Seater / Sleeper (2+2),21:35,05:50,08h 15m,INR 599,8 Seats available,"3.5
+10",https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+Northern Travels,Bharat Benz A/C Sleeper (2+1),21:45,07:00,09h 15m,INR 999,36 Seats available,3.2,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+K.S Travels,A/C Semi Sleeper / Sleeper (2+2),23:00,06:15,07h 15m,INR 1000,38 Seats available,3.7,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+Banjara Satguru Travels,A/C Seater / Sleeper (2+2),23:20,06:05,06h 45m,INR 551,29 Seats available,"2.8
+27",https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),23:20,06:50,07h 30m,539,35 Seats available,"2.9
+6",https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+Big Bus,A/C Seater / Sleeper (2+2),21:15,05:00,07h 45m,INR 500,31 Seats available,"2.6
+5",https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+Big Bus,A/C Seater / Sleeper (2+2),23:25,05:45,06h 20m,INR 579,46 Seats available,2.0,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),20:30,04:00,07h 30m,675,28 Seats available,"2.4
+13",https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+Lavish Travels,A/C Seater / Sleeper (2+2),19:30,03:30,08h 00m,INR 449,4 Seats available,"1.2
+4",https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+ADTC tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),22:40,05:00,06h 20m,INR 600,28 Seats available,"1.9
+5",https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+RK Holiday,A/C Seater / Sleeper (2+2),19:30,01:40,06h 10m,569,21 Seats available,"1.3
+6",https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+Travel Point,A/C Seater / Sleeper (2+2),21:00,03:21,06h 21m,994,37 Seats available,2.9,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+Travel Point,A/C Seater / Sleeper (2+2),21:00,03:30,06h 30m,1044,40 Seats available,2.9,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+Ashok Bus Service,A/C Seater / Sleeper (2+2),23:35,08:15,08h 40m,647,31 Seats available,"1.1
+6",https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Delhi to Jalandhar,Punjab
+Indo Canadian Transport Company,Mercedes A/C Semi Sleeper (2+2),23:30,06:30,07h 00m,INR 3300,41 Seats available,4.6,https://www.redbus.in/bus-tickets/delhi-airport-to-patiala,Delhi Airport to Patiala,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:50,06:15,07h 25m,INR 749,5 Seats available,"4.6
+299",https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Jalandhar to Delhi,Punjab
+Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),21:05,04:45,07h 40m,INR 830,5 Seats available,"4.6
+609",https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Jalandhar to Delhi,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:30,07:00,07h 30m,INR 779,6 Seats available,"4.5
+268",https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Jalandhar to Delhi,Punjab
+ADTC tour and Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),22:40,05:10,06h 30m,INR 1199,1 Seat available,"4.0
+51",https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Jalandhar to Delhi,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:05,05:50,07h 45m,INR 839,6 Seats available,"4.0
+86",https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Jalandhar to Delhi,Punjab
+New Navyug Travels,A/C Sleeper (2+1),21:50,05:30,07h 40m,INR 875,1 Seat available,"4.2
+196",https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Jalandhar to Delhi,Punjab
+Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),22:35,06:40,08h 05m,1259,4 Seats available,"4.7
+187",https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Jalandhar to Delhi,Punjab
+Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:05,06:45,07h 40m,INR 1200,1 Seat available,"4.6
+349",https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Jalandhar to Delhi,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:05,06:25,07h 20m,INR 779,6 Seats available,"4.3
+111",https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Jalandhar to Delhi,Punjab
+Yolo Bus,VE A/C Seater / Sleeper (2+1),23:26,06:16,06h 50m,INR 800,2 Seats available,"4.6
+360",https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Jalandhar to Delhi,Punjab
+Yolo Bus,VE A/C Seater / Sleeper (2+1),21:11,04:18,07h 07m,INR 1620,2 Seats available,"4.5
+358",https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Jalandhar to Delhi,Punjab
+Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:55,07:30,07h 35m,INR 1199,1 Seat available,"4.3
+157",https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Jalandhar to Delhi,Punjab
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:30,06:15,07h 45m,INR 1319,7 Seats available,"4.3
+42",https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Jalandhar to Delhi,Punjab
+IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),21:50,05:15,07h 25m,INR 989,8 Seats available,"4.5
+28",https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Jalandhar to Delhi,Punjab
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),21:35,06:20,08h 45m,INR 909,3 Seats available,"4.2
+97",https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Jalandhar to Delhi,Punjab
+Indo Canadian Transport Company,Volvo A/C Sleeper (2+1),23:59,08:59,09h 00m,INR 3850,29 Seats available,4.6,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Jalandhar to Delhi,Punjab
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:45,06:20,07h 35m,INR 1029,11 Seats available,"4.6
+10",https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Jalandhar to Delhi,Punjab
+Golden Temple Volvo Bus Service,A/C Seater / Sleeper (2+1),23:45,07:00,07h 15m,1361,8 Seats available,3.1,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Jalandhar to Delhi,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:55,06:00,06h 05m,INR 789,8 Seats available,"3.7
+15",https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Jalandhar to Delhi,Punjab
+Armaan Tour & Travels,A/C Seater / Sleeper (2+1),21:30,06:00,08h 30m,INR 799,1 Seat available,"1.9
+10",https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Jalandhar to Delhi,Punjab
+ADTC tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:10,05:15,06h 05m,INR 1399,2 Seats available,"1.9
+9",https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Jalandhar to Delhi,Punjab
+K.S Travels,A/C Semi Sleeper / Sleeper (2+2),23:45,06:30,06h 45m,INR 1000,4 Seats available,"2.2
+4",https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Jalandhar to Delhi,Punjab
+PEPSU (Punjab) - 67121,Volvo AC Seater (2+2),21:00,05:20,08h 20m,INR 997,39 Seats available,"3.0
+4",https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Delhi Airport to Ludhiana,Punjab
+PEPSU (Punjab) - 67121,Volvo AC Seater (2+2),22:20,05:20,07h 00m,INR 873,39 Seats available,"2.6
+5",https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Delhi Airport to Ludhiana,Punjab
+PEPSU (Punjab) - 67064,Volvo AC Seater (2+2),23:58,07:58,08h 00m,INR 997,36 Seats available,"4.4
+9",https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Delhi Airport to Ludhiana,Punjab
+RSRTC - 156675,Express Non AC Seater 2+3,22:30,05:15,06h 45m,INR 436,33 Seats available,"2.3
+7",https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Delhi Airport to Ludhiana,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:15,06:50,07h 35m,INR 499,14 Seats available,"4.8
+122",https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Delhi Airport to Ludhiana,Punjab
+Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:30,06:30,07h 00m,INR 649,5 Seats available,"4.6
+299",https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Delhi Airport to Ludhiana,Punjab
+Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:20,05:00,06h 40m,INR 612,6 Seats available,"4.4
+351",https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Delhi Airport to Ludhiana,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),20:30,04:25,07h 55m,INR 969,1 Seat available,"4.5
+130",https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Delhi Airport to Ludhiana,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:15,06:00,07h 45m,INR 679,12 Seats available,"4.5
+122",https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Delhi Airport to Ludhiana,Punjab
+Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),22:30,05:15,06h 45m,INR 723,14 Seats available,"4.8
+73",https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Delhi Airport to Ludhiana,Punjab
+Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:40,06:30,06h 50m,INR 600,2 Seats available,"4.5
+398",https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Delhi Airport to Ludhiana,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:00,03:50,06h 50m,INR 689,3 Seats available,"4.6
+72",https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Delhi Airport to Ludhiana,Punjab
+Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:00,05:30,06h 30m,INR 600,18 Seats available,"4.3
+349",https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Delhi Airport to Ludhiana,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:10,05:10,07h 00m,INR 679,9 Seats available,"4.4
+75",https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Delhi Airport to Ludhiana,Punjab
+Yolo Bus,VE A/C Seater / Sleeper (2+1),23:20,05:50,06h 30m,INR 720,5 Seats available,"4.0
+107",https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Delhi Airport to Ludhiana,Punjab
+Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),20:00,03:00,07h 00m,INR 764,1 Seat available,"4.5
+62",https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Delhi Airport to Ludhiana,Punjab
+FlixBus,Bharat Benz A/C Sleeper (2+1),22:30,05:50,07h 20m,INR 899.11,7 Seats available,"4.8
+70",https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Delhi Airport to Ludhiana,Punjab
+NueGo,Electric A/C Seater (2+2),23:50,06:15,06h 25m,INR 501,11 Seats available,"3.3
+258",https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Delhi Airport to Ludhiana,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:45,06:30,07h 45m,INR 669,9 Seats available,"4.2
+45",https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Delhi Airport to Ludhiana,Punjab
+NueGo,Electric A/C Seater (2+2),23:00,05:25,06h 25m,INR 501,14 Seats available,"3.2
+203",https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Delhi Airport to Ludhiana,Punjab
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:30,06:05,06h 35m,INR 559,15 Seats available,"4.1
+44",https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Delhi Airport to Ludhiana,Punjab
+FlixBus,Bharat Benz A/C Sleeper (2+1),21:00,04:25,07h 25m,INR 1219.64,3 Seats available,"4.6
+53",https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Delhi Airport to Ludhiana,Punjab
+IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),23:58,06:30,06h 32m,INR 679,5 Seats available,"4.5
+21",https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Delhi Airport to Ludhiana,Punjab
+New Navyug Travels,A/C Sleeper (2+1),22:45,04:30,05h 45m,INR 625,18 Seats available,"3.7
+44",https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Delhi Airport to Ludhiana,Punjab
+Yolo Bus,VE A/C Seater / Sleeper (2+1),23:50,05:44,05h 54m,INR 820,5 Seats available,"4.4
+55",https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Delhi Airport to Ludhiana,Punjab
+Golden Temple Volvo Bus Service,A/C Seater / Sleeper (2+2),23:40,05:00,05h 20m,INR 886,19 Seats available,"2.8
+57",https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Delhi Airport to Ludhiana,Punjab
+ADTC tour and Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),22:25,04:00,05h 35m,INR 600,7 Seats available,"4.3
+7",https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Delhi Airport to Ludhiana,Punjab
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:00,06:55,08h 55m,INR 819,12 Seats available,"3.8
+10",https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Delhi Airport to Ludhiana,Punjab
+Muskan Tour And Travels private Limited,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),22:40,04:00,05h 20m,INR 699,23 Seats available,"3.3
+9",https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Delhi Airport to Ludhiana,Punjab
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),21:00,04:50,07h 50m,INR 649,12 Seats available,4.5,https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Delhi Airport to Ludhiana,Punjab
+ADTC tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),22:40,04:00,05h 20m,INR 600,8 Seats available,4.3,https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Delhi Airport to Ludhiana,Punjab
+Bhawani Travels,A/C Seater / Sleeper (2+2),23:00,04:30,05h 30m,INR 523.81,6 Seats available,3.9,https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Delhi Airport to Ludhiana,Punjab
+K.S Travels,A/C Semi Sleeper / Sleeper (2+2),23:00,05:45,06h 45m,INR 1000,38 Seats available,3.4,https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Delhi Airport to Ludhiana,Punjab
+Deltin Travels Pvt Ltd,Bharat Benz A/C Seater /Sleeper (2+1),22:30,05:55,07h 25m,INR 600,16 Seats available,"5.0
+5",https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Delhi Airport to Ludhiana,Punjab
+KVS Holidays,A/C Seater / Sleeper (2+2),23:00,05:00,06h 00m,INR 655,32 Seats available,3.2,https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Delhi Airport to Ludhiana,Punjab
+Classic Travels,A/C Seater / Sleeper (2+2),21:35,04:35,07h 00m,INR 599,7 Seats available,"4.0
+8",https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Delhi Airport to Ludhiana,Punjab
+Banjara Satguru Travels,A/C Seater / Sleeper (2+2),23:05,05:05,06h 00m,INR 551,30 Seats available,"2.6
+11",https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Delhi Airport to Ludhiana,Punjab
+Banjara Satguru Travels,A/C Seater / Sleeper (2+2),23:35,05:05,05h 30m,INR 599,33 Seats available,"2.5
+13",https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Delhi Airport to Ludhiana,Punjab
+Deltin Travels Pvt Ltd,Bharat Benz A/C Seater /Sleeper (2+1),22:30,05:55,07h 25m,INR 500,12 Seats available,"2.7
+5",https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Delhi Airport to Ludhiana,Punjab
+Indo Canadian Transport Company,Mercedes A/C Semi Sleeper (2+2),23:30,07:45,08h 15m,INR 3300,41 Seats available,4.6,https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Delhi Airport to Ludhiana,Punjab
+FlixBus,Bharat Benz A/C Sleeper (2+1),23:30,06:00,06h 30m,INR 872.32,8 Seats available,4.4,https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Delhi Airport to Ludhiana,Punjab
+ADTC tour and Travels,Bharat Benz A/C Seater / Sleeper (2+2),22:30,03:55,05h 25m,INR 600,1 Seat available,4.3,https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Delhi Airport to Ludhiana,Punjab
+Northern Travels,Bharat Benz A/C Sleeper (2+1),23:35,06:00,06h 25m,INR 999,24 Seats available,3.2,https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Delhi Airport to Ludhiana,Punjab
+Travel Point,A/C Seater / Sleeper (2+2),21:00,02:21,05h 21m,INR 1046.67,50 Seats available,2.9,https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Delhi Airport to Ludhiana,Punjab
+Travel Point,A/C Seater / Sleeper (2+2),21:00,02:30,05h 30m,INR 1099,40 Seats available,2.9,https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Delhi Airport to Ludhiana,Punjab
+Banjara Satguru Travels,A/C Seater / Sleeper (2+1),22:40,04:46,06h 06m,INR 751,28 Seats available,2.6,https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Delhi Airport to Ludhiana,Punjab
+SHAH HOLIDAY TRAVEL,VE A/C Seater / Sleeper (2+2),22:30,04:30,06h 00m,INR 799,50 Seats available,2.5,https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Delhi Airport to Ludhiana,Punjab
+Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),21:05,04:45,07h 40m,INR 830,5 Seats available,"4.6
+609",https://www.redbus.in/bus-tickets/jalandhar-to-delhi-airport,Jalandhar to Delhi Airport,Punjab
+Yolo Bus,VE A/C Seater / Sleeper (2+1),23:26,06:16,06h 50m,INR 800,2 Seats available,"4.6
+360",https://www.redbus.in/bus-tickets/jalandhar-to-delhi-airport,Jalandhar to Delhi Airport,Punjab
+Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),22:35,06:40,08h 05m,INR 1439,4 Seats available,"4.7
+187",https://www.redbus.in/bus-tickets/jalandhar-to-delhi-airport,Jalandhar to Delhi Airport,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:50,06:15,07h 25m,INR 749,5 Seats available,"4.6
+299",https://www.redbus.in/bus-tickets/jalandhar-to-delhi-airport,Jalandhar to Delhi Airport,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:30,07:00,07h 30m,INR 779,6 Seats available,"4.5
+268",https://www.redbus.in/bus-tickets/jalandhar-to-delhi-airport,Jalandhar to Delhi Airport,Punjab
+Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:05,06:45,07h 40m,INR 1200,1 Seat available,"4.6
+349",https://www.redbus.in/bus-tickets/jalandhar-to-delhi-airport,Jalandhar to Delhi Airport,Punjab
+Yolo Bus,VE A/C Seater / Sleeper (2+1),21:11,04:18,07h 07m,INR 1620,2 Seats available,"4.5
+358",https://www.redbus.in/bus-tickets/jalandhar-to-delhi-airport,Jalandhar to Delhi Airport,Punjab
+Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:55,07:30,07h 35m,INR 1199,1 Seat available,"4.3
+157",https://www.redbus.in/bus-tickets/jalandhar-to-delhi-airport,Jalandhar to Delhi Airport,Punjab
+New Navyug Travels,A/C Sleeper (2+1),21:50,05:30,07h 40m,INR 875,1 Seat available,"4.2
+196",https://www.redbus.in/bus-tickets/jalandhar-to-delhi-airport,Jalandhar to Delhi Airport,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:05,06:25,07h 20m,INR 779,6 Seats available,"4.3
+111",https://www.redbus.in/bus-tickets/jalandhar-to-delhi-airport,Jalandhar to Delhi Airport,Punjab
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),21:35,06:20,08h 45m,INR 909,3 Seats available,"4.2
+97",https://www.redbus.in/bus-tickets/jalandhar-to-delhi-airport,Jalandhar to Delhi Airport,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:05,05:50,07h 45m,INR 839,6 Seats available,"4.0
+86",https://www.redbus.in/bus-tickets/jalandhar-to-delhi-airport,Jalandhar to Delhi Airport,Punjab
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:30,06:15,07h 45m,INR 1319,7 Seats available,"4.3
+42",https://www.redbus.in/bus-tickets/jalandhar-to-delhi-airport,Jalandhar to Delhi Airport,Punjab
+ADTC tour and Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),22:40,05:10,06h 30m,INR 1199,1 Seat available,"4.0
+51",https://www.redbus.in/bus-tickets/jalandhar-to-delhi-airport,Jalandhar to Delhi Airport,Punjab
+IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),21:50,05:15,07h 25m,INR 989,8 Seats available,"4.5
+28",https://www.redbus.in/bus-tickets/jalandhar-to-delhi-airport,Jalandhar to Delhi Airport,Punjab
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:45,06:20,07h 35m,INR 1029,11 Seats available,"4.6
+10",https://www.redbus.in/bus-tickets/jalandhar-to-delhi-airport,Jalandhar to Delhi Airport,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:55,06:00,06h 05m,INR 789,8 Seats available,"3.7
+15",https://www.redbus.in/bus-tickets/jalandhar-to-delhi-airport,Jalandhar to Delhi Airport,Punjab
+K.S Travels,A/C Semi Sleeper / Sleeper (2+2),23:45,06:30,06h 45m,INR 1000,4 Seats available,"2.2
+4",https://www.redbus.in/bus-tickets/jalandhar-to-delhi-airport,Jalandhar to Delhi Airport,Punjab
+ADTC tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:10,05:15,06h 05m,INR 1399,2 Seats available,"1.9
+9",https://www.redbus.in/bus-tickets/jalandhar-to-delhi-airport,Jalandhar to Delhi Airport,Punjab
+Golden Temple Volvo Bus Service,A/C Seater / Sleeper (2+1),23:45,07:00,07h 15m,INR 1486,8 Seats available,3.1,https://www.redbus.in/bus-tickets/jalandhar-to-delhi-airport,Jalandhar to Delhi Airport,Punjab
+Armaan Tour & Travels,A/C Seater / Sleeper (2+1),21:30,06:00,08h 30m,INR 799,1 Seat available,"1.9
+10",https://www.redbus.in/bus-tickets/jalandhar-to-delhi-airport,Jalandhar to Delhi Airport,Punjab
+Indo Canadian Transport Company,Volvo A/C Sleeper (2+1),23:59,08:59,09h 00m,INR 3850,29 Seats available,4.6,https://www.redbus.in/bus-tickets/jalandhar-to-delhi-airport,Jalandhar to Delhi Airport,Punjab
+Karwasra Travels,A/C Sleeper (2+1),20:30,01:51,05h 21m,INR 1200,6 Seats available,4.2,https://www.redbus.in/bus-tickets/chandigarh-to-bathinda,Chandigarh to Bathinda,Punjab
+Tantia Travels & Cargo,A/C Seater / Sleeper (2+1),20:30,00:45,04h 15m,INR 1095,2 Seats available,3.9,https://www.redbus.in/bus-tickets/chandigarh-to-bathinda,Chandigarh to Bathinda,Punjab
+Karwasra Travels,A/C Sleeper (2+1),20:40,01:51,05h 11m,INR 1200,6 Seats available,4.2,https://www.redbus.in/bus-tickets/chandigarh-to-bathinda,Chandigarh to Bathinda,Punjab
+Rajpreet Travels and cargo,VE A/C Sleeper (2+1),21:20,02:00,04h 40m,INR 905,1 Seat available,3.3,https://www.redbus.in/bus-tickets/chandigarh-to-bathinda,Chandigarh to Bathinda,Punjab
+AMBIKA MISHRA TRAVELS,AC Sleeper (2+1),20:46,01:16,04h 30m,INR 900,2 Seats available,2.3,https://www.redbus.in/bus-tickets/chandigarh-to-bathinda,Chandigarh to Bathinda,Punjab
+Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),21:20,04:45,07h 25m,INR 830,5 Seats available,"4.6
+288",https://www.redbus.in/bus-tickets/phagwara-to-delhi,Phagwara to Delhi,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:05,06:15,07h 10m,INR 799,5 Seats available,"4.6
+112",https://www.redbus.in/bus-tickets/phagwara-to-delhi,Phagwara to Delhi,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:15,06:25,07h 10m,INR 1419,5 Seats available,"4.7
+49",https://www.redbus.in/bus-tickets/phagwara-to-delhi,Phagwara to Delhi,Punjab
+Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:10,06:45,07h 35m,INR 1200,2 Seats available,"4.5
+91",https://www.redbus.in/bus-tickets/phagwara-to-delhi,Phagwara to Delhi,Punjab
+Yolo Bus,VE A/C Seater / Sleeper (2+1),21:37,04:18,06h 41m,INR 1740,2 Seats available,"4.6
+73",https://www.redbus.in/bus-tickets/phagwara-to-delhi,Phagwara to Delhi,Punjab
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:55,06:15,07h 20m,INR 1319,3 Seats available,"4.5
+24",https://www.redbus.in/bus-tickets/phagwara-to-delhi,Phagwara to Delhi,Punjab
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:15,06:20,08h 05m,INR 949,8 Seats available,"3.9
+29",https://www.redbus.in/bus-tickets/phagwara-to-delhi,Phagwara to Delhi,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:55,07:00,07h 05m,INR 829,7 Seats available,"4.5
+15",https://www.redbus.in/bus-tickets/phagwara-to-delhi,Phagwara to Delhi,Punjab
+New Navyug Travels,A/C Sleeper (2+1),22:00,05:30,07h 30m,INR 875,1 Seat available,"3.8
+30",https://www.redbus.in/bus-tickets/phagwara-to-delhi,Phagwara to Delhi,Punjab
+Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),22:45,06:40,07h 55m,859,6 Seats available,"4.2
+20",https://www.redbus.in/bus-tickets/phagwara-to-delhi,Phagwara to Delhi,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:20,05:50,07h 30m,INR 899,6 Seats available,"4.1
+7",https://www.redbus.in/bus-tickets/phagwara-to-delhi,Phagwara to Delhi,Punjab
+IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),22:00,05:15,07h 15m,INR 989,8 Seats available,"4.3
+4",https://www.redbus.in/bus-tickets/phagwara-to-delhi,Phagwara to Delhi,Punjab
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:45,06:20,07h 35m,INR 1029,8 Seats available,"4.4
+4",https://www.redbus.in/bus-tickets/phagwara-to-delhi,Phagwara to Delhi,Punjab
+ADTC tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:35,05:15,05h 40m,INR 1399,2 Seats available,4.0,https://www.redbus.in/bus-tickets/phagwara-to-delhi,Phagwara to Delhi,Punjab
+ADTC tour and Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),22:55,05:10,06h 15m,INR 1199,4 Seats available,4.0,https://www.redbus.in/bus-tickets/phagwara-to-delhi,Phagwara to Delhi,Punjab
+Indo Canadian Transport Company,A/C Semi Sleeper (2+2),22:35,07:00,08h 25m,INR 3300,13 Seats available,4.6,https://www.redbus.in/bus-tickets/phagwara-to-delhi,Phagwara to Delhi,Punjab
+Armaan Tour & Travels,A/C Seater / Sleeper (2+1),21:45,06:00,08h 15m,INR 799,1 Seat available,2.6,https://www.redbus.in/bus-tickets/phagwara-to-delhi,Phagwara to Delhi,Punjab
+PEPSU (Punjab) - 67121,Volvo AC Seater (2+2),21:00,06:50,09h 50m,INR 1169,39 Seats available,3.7,https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+PEPSU (Punjab) - 67121,Volvo AC Seater (2+2),22:20,06:50,08h 30m,INR 1045,39 Seats available,"2.4
+4",https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+PEPSU (Punjab) - 67064,Volvo AC Seater (2+2),23:58,08:58,09h 00m,INR 1169,37 Seats available,"1.8
+4",https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:20,05:55,07h 35m,INR 612,6 Seats available,"4.7
+546",https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:30,08:00,08h 30m,INR 649,5 Seats available,"4.5
+327",https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:15,07:15,09h 00m,INR 679,12 Seats available,"4.5
+280",https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:10,06:20,08h 10m,INR 679,9 Seats available,"4.6
+160",https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:15,08:05,08h 50m,INR 499,14 Seats available,"4.5
+261",https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),22:30,06:25,07h 55m,INR 723,14 Seats available,"4.6
+107",https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:45,07:55,09h 10m,INR 669,9 Seats available,"4.7
+87",https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:00,06:10,08h 10m,INR 660,4 Seats available,"4.3
+303",https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+Yolo Bus,VE A/C Seater / Sleeper (2+1),23:20,07:04,07h 44m,INR 640,6 Seats available,"4.3
+281",https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),20:30,05:45,09h 15m,INR 859,2 Seats available,"4.4
+148",https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:00,05:05,08h 05m,INR 689,3 Seats available,"4.4
+121",https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:40,07:30,07h 50m,INR 600,2 Seats available,"4.5
+303",https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:00,07:00,08h 00m,INR 600,18 Seats available,"4.4
+276",https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+New Navyug Travels,A/C Sleeper (2+1),22:45,06:10,07h 25m,INR 625,17 Seats available,"4.0
+301",https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+Yolo Bus,VE A/C Seater / Sleeper (2+1),23:50,06:49,06h 59m,INR 820,5 Seats available,"4.5
+119",https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:30,07:20,07h 50m,INR 559,15 Seats available,"4.3
+68",https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+FlixBus,Bharat Benz A/C Sleeper (2+1),21:00,05:25,08h 25m,INR 1219.64,3 Seats available,"4.5
+80",https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:00,08:05,10h 05m,INR 819,12 Seats available,"4.5
+38",https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+RS YADAV SMART BUS,Volvo Multi Axle B11R AC Seater\Sleeper (2+1),22:30,05:50,07h 20m,INR 549,22 Seats available,"4.4
+74",https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),23:58,08:00,08h 02m,INR 679,5 Seats available,"4.4
+30",https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+ADTC tour and Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),22:25,05:00,06h 35m,INR 600,7 Seats available,"3.9
+37",https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+FlixBus,Bharat Benz A/C Sleeper (2+1),22:30,07:05,08h 35m,INR 955.36,7 Seats available,"4.7
+41",https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+Muskan Tour And Travels private Limited,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),22:40,05:10,06h 30m,INR 699,31 Seats available,"3.6
+34",https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+Golden Temple Volvo Bus Service,A/C Seater / Sleeper (2+2),23:40,07:15,07h 35m,INR 886,19 Seats available,"3.0
+51",https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),19:40,04:10,08h 30m,INR 600,3 Seats available,"4.6
+9",https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+Bhawani Travels,A/C Seater / Sleeper (2+2),23:00,05:40,06h 40m,INR 523.81,6 Seats available,"3.7
+18",https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),21:00,06:05,09h 05m,INR 649,12 Seats available,"4.1
+9",https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),23:20,06:50,07h 30m,INR 599,35 Seats available,"2.9
+6",https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),20:30,04:00,07h 30m,INR 750,28 Seats available,"2.4
+13",https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+Ashok Bus Service,A/C Seater / Sleeper (2+2),23:35,08:15,08h 40m,INR 699,31 Seats available,"1.1
+6",https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+Big Bus,A/C Seater / Sleeper (2+2),21:15,05:00,07h 45m,INR 500,31 Seats available,"2.6
+5",https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+ADTC tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),22:40,05:00,06h 20m,INR 600,28 Seats available,"1.9
+5",https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+K.S Travels,A/C Semi Sleeper / Sleeper (2+2),23:00,06:15,07h 15m,INR 1000,38 Seats available,3.7,https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+Deltin Travels Pvt Ltd,Bharat Benz A/C Seater /Sleeper (2+1),22:30,06:46,08h 16m,INR 500,25 Seats available,"4.4
+14",https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+Deltin Travels Pvt Ltd,Bharat Benz A/C Seater /Sleeper (2+1),22:30,06:46,08h 16m,INR 600,16 Seats available,"4.4
+13",https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+Banjara Satguru Travels,A/C Seater / Sleeper (2+2),23:35,06:05,06h 30m,INR 599,33 Seats available,"3.5
+31",https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+Ashok Bus Service,VE A/C Seater / Sleeper (2+1),19:15,02:15,07h 00m,INR 399,11 Seats available,"4.1
+15",https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),22:00,06:00,08h 00m,INR 650,21 Seats available,"4.3
+9",https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+Banjara Satguru Travels,A/C Seater / Sleeper (2+1),22:40,06:06,07h 26m,INR 751,32 Seats available,"4.3
+7",https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+Classic Travels,A/C Seater / Sleeper (2+2),21:35,05:50,08h 15m,INR 599,8 Seats available,"3.5
+10",https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+Banjara Satguru Travels,A/C Seater / Sleeper (2+2),23:05,06:05,07h 00m,INR 551,29 Seats available,"2.8
+27",https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+RK Holiday,A/C Seater / Sleeper (2+2),19:20,01:40,06h 20m,INR 599,21 Seats available,"1.3
+6",https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+Lavish Travels,A/C Seater / Sleeper (2+2),19:30,03:30,08h 00m,INR 449,4 Seats available,"1.2
+4",https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+Indo Canadian Transport Company,Mercedes A/C Semi Sleeper (2+2),23:30,09:15,09h 45m,INR 3300,41 Seats available,4.6,https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+FlixBus,Bharat Benz A/C Sleeper (2+1),23:30,07:25,07h 55m,INR 926.79,8 Seats available,4.4,https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+ADTC tour and Travels,Bharat Benz A/C Seater / Sleeper (2+2),22:30,05:00,06h 30m,INR 600,3 Seats available,3.7,https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+Northern Travels,Bharat Benz A/C Sleeper (2+1),23:35,07:00,07h 25m,INR 999,36 Seats available,3.2,https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+Goel Tourist (Regd),A/C Seater / Sleeper (2+2),21:40,04:40,07h 00m,INR 600,31 Seats available,3.1,https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+Travel Point,A/C Seater / Sleeper (2+2),21:00,03:30,06h 30m,INR 1099,40 Seats available,2.9,https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+Travel Point,A/C Seater / Sleeper (2+2),21:00,03:21,06h 21m,INR 1046.67,37 Seats available,2.9,https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+Big Bus,A/C Seater / Sleeper (2+2),23:25,05:45,06h 20m,INR 579,46 Seats available,2.0,https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Delhi Airport to Jalandhar,Punjab
+PEPSU (Punjab) - 67121,Volvo AC Seater (2+2),22:20,08:50,10h 30m,INR 1269,39 Seats available,2.6,https://www.redbus.in/bus-tickets/delhi-to-amritsar,Delhi to Amritsar,Punjab
+RSRTC - 156675,Express Non AC Seater 2+3,22:30,08:30,10h 00m,INR 650,33 Seats available,"1.5
+12",https://www.redbus.in/bus-tickets/delhi-to-amritsar,Delhi to Amritsar,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:15,08:40,10h 25m,INR 679,12 Seats available,"4.6
+361",https://www.redbus.in/bus-tickets/delhi-to-amritsar,Delhi to Amritsar,Punjab
+AdFlixBus,Bharat Benz A/C Sleeper (2+1),22:30,08:25,09h 55m,INR 726.79,7 Seats available,"4.8
+137",https://www.redbus.in/bus-tickets/delhi-to-amritsar,Delhi to Amritsar,Punjab
+Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:00,08:30,09h 30m,INR 600,18 Seats available,"4.3
+445",https://www.redbus.in/bus-tickets/delhi-to-amritsar,Delhi to Amritsar,Punjab
+Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),22:30,08:10,09h 40m,695,14 Seats available,"4.7
+215",https://www.redbus.in/bus-tickets/delhi-to-amritsar,Delhi to Amritsar,Punjab
+Yolo Bus,VE A/C Seater / Sleeper (2+1),23:20,08:06,08h 46m,INR 660,6 Seats available,"4.5
+612",https://www.redbus.in/bus-tickets/delhi-to-amritsar,Delhi to Amritsar,Punjab
+AdBhawani Travels,A/C Seater / Sleeper (2+2),23:00,06:40,07h 40m,INR 523.81,6 Seats available,"4.1
+54",https://www.redbus.in/bus-tickets/delhi-to-amritsar,Delhi to Amritsar,Punjab
+Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:20,07:30,09h 10m,INR 557,6 Seats available,"4.7
+1009",https://www.redbus.in/bus-tickets/delhi-to-amritsar,Delhi to Amritsar,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:30,07:35,10h 05m,INR 679,9 Seats available,"4.4
+223",https://www.redbus.in/bus-tickets/delhi-to-amritsar,Delhi to Amritsar,Punjab
+Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:00,07:50,09h 50m,INR 660,4 Seats available,"4.3
+515",https://www.redbus.in/bus-tickets/delhi-to-amritsar,Delhi to Amritsar,Punjab
+ADTC tour and Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),22:25,06:25,08h 00m,INR 600,7 Seats available,"4.1
+298",https://www.redbus.in/bus-tickets/delhi-to-amritsar,Delhi to Amritsar,Punjab
+Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:40,09:10,09h 30m,INR 939,1 Seat available,"4.5
+399",https://www.redbus.in/bus-tickets/delhi-to-amritsar,Delhi to Amritsar,Punjab
+Yolo Bus,VE A/C Seater / Sleeper (2+1),23:50,08:25,08h 35m,INR 820,5 Seats available,"4.5
+117",https://www.redbus.in/bus-tickets/delhi-to-amritsar,Delhi to Amritsar,Punjab
+FlixBus,Bharat Benz A/C Sleeper (2+1),23:30,08:45,09h 15m,INR 704.46,8 Seats available,"5.0
+5",https://www.redbus.in/bus-tickets/delhi-to-amritsar,Delhi to Amritsar,Punjab
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:00,08:35,09h 35m,INR 559,15 Seats available,"4.1
+122",https://www.redbus.in/bus-tickets/delhi-to-amritsar,Delhi to Amritsar,Punjab
+RS YADAV SMART BUS,Volvo Multi Axle B11R AC Seater\Sleeper (2+1),22:40,07:10,08h 30m,INR 549,12 Seats available,"4.4
+477",https://www.redbus.in/bus-tickets/delhi-to-amritsar,Delhi to Amritsar,Punjab
+Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:30,09:40,10h 10m,INR 649,5 Seats available,"4.4
+349",https://www.redbus.in/bus-tickets/delhi-to-amritsar,Delhi to Amritsar,Punjab
+ADTC tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),22:40,06:30,07h 50m,INR 600,8 Seats available,"4.0
+139",https://www.redbus.in/bus-tickets/delhi-to-amritsar,Delhi to Amritsar,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:45,09:10,10h 25m,INR 499,14 Seats available,"4.5
+339",https://www.redbus.in/bus-tickets/delhi-to-amritsar,Delhi to Amritsar,Punjab
+Deltin Travels Pvt Ltd,Bharat Benz A/C Seater /Sleeper (2+1),22:15,06:20,08h 05m,INR 530,16 Seats available,"4.1
+11",https://www.redbus.in/bus-tickets/delhi-to-amritsar,Delhi to Amritsar,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:00,06:25,09h 25m,INR 689,3 Seats available,"4.2
+336",https://www.redbus.in/bus-tickets/delhi-to-amritsar,Delhi to Amritsar,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:15,09:05,10h 50m,INR 669,9 Seats available,"4.4
+172",https://www.redbus.in/bus-tickets/delhi-to-amritsar,Delhi to Amritsar,Punjab
+Deltin Travels Pvt Ltd,Bharat Benz A/C Seater /Sleeper (2+1),22:30,08:00,09h 30m,INR 500,12 Seats available,"4.1
+19",https://www.redbus.in/bus-tickets/delhi-to-amritsar,Delhi to Amritsar,Punjab
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),21:20,07:30,10h 10m,INR 649,12 Seats available,"4.6
+23",https://www.redbus.in/bus-tickets/delhi-to-amritsar,Delhi to Amritsar,Punjab
+Deltin Travels Pvt Ltd,Bharat Benz A/C Seater /Sleeper (2+1),22:30,08:00,09h 30m,INR 600,16 Seats available,"4.6
+22",https://www.redbus.in/bus-tickets/delhi-to-amritsar,Delhi to Amritsar,Punjab
+IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),23:00,09:10,10h 10m,INR 679,5 Seats available,"4.4
+21",https://www.redbus.in/bus-tickets/delhi-to-amritsar,Delhi to Amritsar,Punjab
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:25,09:15,10h 50m,INR 819,12 Seats available,"4.4
+44",https://www.redbus.in/bus-tickets/delhi-to-amritsar,Delhi to Amritsar,Punjab
+Indo Canadian Transport Company,Mercedes A/C Semi Sleeper (2+2),23:30,11:00,11h 30m,INR 3300,41 Seats available,4.6,https://www.redbus.in/bus-tickets/delhi-to-amritsar,Delhi to Amritsar,Punjab
+Muskan Tour And Travels private Limited,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),22:40,06:30,07h 50m,599,23 Seats available,"3.8
+313",https://www.redbus.in/bus-tickets/delhi-to-amritsar,Delhi to Amritsar,Punjab
+Banjara Satguru Travels,A/C Seater / Sleeper (2+2),23:50,07:35,07h 45m,INR 599,33 Seats available,"3.1
+69",https://www.redbus.in/bus-tickets/delhi-to-amritsar,Delhi to Amritsar,Punjab
+Northern Travels,Bharat Benz A/C Sleeper (2+1),21:45,08:15,10h 30m,INR 999,36 Seats available,3.2,https://www.redbus.in/bus-tickets/delhi-to-amritsar,Delhi to Amritsar,Punjab
+K.S Travels,A/C Semi Sleeper / Sleeper (2+2),23:00,07:00,08h 00m,INR 1000,32 Seats available,"3.2
+13",https://www.redbus.in/bus-tickets/delhi-to-amritsar,Delhi to Amritsar,Punjab
+Classic Travels,A/C Seater / Sleeper (2+2),21:35,06:50,09h 15m,INR 599,7 Seats available,"2.8
+144",https://www.redbus.in/bus-tickets/delhi-to-amritsar,Delhi to Amritsar,Punjab
+Banjara Satguru Travels,A/C Seater / Sleeper (2+2),23:20,07:15,07h 55m,INR 551,30 Seats available,"2.6
+97",https://www.redbus.in/bus-tickets/delhi-to-amritsar,Delhi to Amritsar,Punjab
+Golden Temple Volvo Bus Service,A/C Seater / Sleeper (2+2),23:40,09:10,09h 30m,761,19 Seats available,"2.2
+48",https://www.redbus.in/bus-tickets/delhi-to-amritsar,Delhi to Amritsar,Punjab
+Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),21:20,04:45,07h 25m,INR 830,5 Seats available,"4.6
+288",https://www.redbus.in/bus-tickets/phagwara-to-delhi-airport,Phagwara to Delhi Airport,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:05,06:15,07h 10m,INR 1469,4 Seats available,"4.6
+112",https://www.redbus.in/bus-tickets/phagwara-to-delhi-airport,Phagwara to Delhi Airport,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:15,06:25,07h 10m,INR 1419,5 Seats available,"4.7
+49",https://www.redbus.in/bus-tickets/phagwara-to-delhi-airport,Phagwara to Delhi Airport,Punjab
+Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:10,06:45,07h 35m,INR 1200,2 Seats available,"4.5
+91",https://www.redbus.in/bus-tickets/phagwara-to-delhi-airport,Phagwara to Delhi Airport,Punjab
+Yolo Bus,VE A/C Seater / Sleeper (2+1),21:37,04:18,06h 41m,INR 1740,2 Seats available,"4.6
+73",https://www.redbus.in/bus-tickets/phagwara-to-delhi-airport,Phagwara to Delhi Airport,Punjab
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:55,06:15,07h 20m,INR 1319,3 Seats available,"4.5
+24",https://www.redbus.in/bus-tickets/phagwara-to-delhi-airport,Phagwara to Delhi Airport,Punjab
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:15,06:20,08h 05m,INR 949,8 Seats available,"3.9
+29",https://www.redbus.in/bus-tickets/phagwara-to-delhi-airport,Phagwara to Delhi Airport,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:55,07:00,07h 05m,INR 829,7 Seats available,"4.5
+15",https://www.redbus.in/bus-tickets/phagwara-to-delhi-airport,Phagwara to Delhi Airport,Punjab
+Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),22:45,06:40,07h 55m,INR 982,6 Seats available,"4.2
+20",https://www.redbus.in/bus-tickets/phagwara-to-delhi-airport,Phagwara to Delhi Airport,Punjab
+New Navyug Travels,A/C Sleeper (2+1),22:00,05:30,07h 30m,INR 875,1 Seat available,"3.8
+30",https://www.redbus.in/bus-tickets/phagwara-to-delhi-airport,Phagwara to Delhi Airport,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:20,05:50,07h 30m,INR 899,6 Seats available,"4.1
+7",https://www.redbus.in/bus-tickets/phagwara-to-delhi-airport,Phagwara to Delhi Airport,Punjab
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:45,06:20,07h 35m,INR 1029,8 Seats available,"4.4
+4",https://www.redbus.in/bus-tickets/phagwara-to-delhi-airport,Phagwara to Delhi Airport,Punjab
+IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),22:00,05:15,07h 15m,INR 989,8 Seats available,"4.3
+4",https://www.redbus.in/bus-tickets/phagwara-to-delhi-airport,Phagwara to Delhi Airport,Punjab
+ADTC tour and Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),22:55,05:10,06h 15m,INR 1199,4 Seats available,4.0,https://www.redbus.in/bus-tickets/phagwara-to-delhi-airport,Phagwara to Delhi Airport,Punjab
+ADTC tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:35,05:15,05h 40m,INR 1399,2 Seats available,4.0,https://www.redbus.in/bus-tickets/phagwara-to-delhi-airport,Phagwara to Delhi Airport,Punjab
+Indo Canadian Transport Company,A/C Semi Sleeper (2+2),22:35,07:00,08h 25m,INR 3300,13 Seats available,4.6,https://www.redbus.in/bus-tickets/phagwara-to-delhi-airport,Phagwara to Delhi Airport,Punjab
+Armaan Tour & Travels,A/C Seater / Sleeper (2+1),21:45,06:00,08h 15m,INR 799,1 Seat available,2.6,https://www.redbus.in/bus-tickets/phagwara-to-delhi-airport,Phagwara to Delhi Airport,Punjab
+PEPSU (Punjab) - 67121,Volvo AC Seater (2+2),21:00,06:05,09h 05m,INR 1107,39 Seats available,3.7,https://www.redbus.in/bus-tickets/delhi-to-phagwara,Delhi to Phagwara,Punjab
+Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:20,05:30,07h 10m,INR 612,6 Seats available,"4.6
+153",https://www.redbus.in/bus-tickets/delhi-to-phagwara,Delhi to Phagwara,Punjab
+Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:00,06:00,08h 00m,INR 660,4 Seats available,"4.4
+254",https://www.redbus.in/bus-tickets/delhi-to-phagwara,Delhi to Phagwara,Punjab
+Yolo Bus,VE A/C Seater / Sleeper (2+1),23:20,06:26,07h 06m,INR 660,6 Seats available,"4.8
+67",https://www.redbus.in/bus-tickets/delhi-to-phagwara,Delhi to Phagwara,Punjab
+Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:40,07:10,07h 30m,INR 600,2 Seats available,"4.7
+102",https://www.redbus.in/bus-tickets/delhi-to-phagwara,Delhi to Phagwara,Punjab
+Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:30,07:00,07h 30m,INR 649,5 Seats available,"4.6
+59",https://www.redbus.in/bus-tickets/delhi-to-phagwara,Delhi to Phagwara,Punjab
+New Navyug Travels,A/C Sleeper (2+1),22:45,05:15,06h 30m,INR 625,18 Seats available,"4.0
+108",https://www.redbus.in/bus-tickets/delhi-to-phagwara,Delhi to Phagwara,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),20:30,05:05,08h 35m,INR 859,2 Seats available,"4.7
+44",https://www.redbus.in/bus-tickets/delhi-to-phagwara,Delhi to Phagwara,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:15,07:30,08h 15m,INR 479,14 Seats available,"4.7
+37",https://www.redbus.in/bus-tickets/delhi-to-phagwara,Delhi to Phagwara,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:10,05:50,07h 40m,INR 639,9 Seats available,"4.8
+30",https://www.redbus.in/bus-tickets/delhi-to-phagwara,Delhi to Phagwara,Punjab
+Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),20:00,03:45,07h 45m,577,7 Seats available,"4.5
+27",https://www.redbus.in/bus-tickets/delhi-to-phagwara,Delhi to Phagwara,Punjab
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:30,06:50,07h 20m,INR 529,15 Seats available,"4.9
+18",https://www.redbus.in/bus-tickets/delhi-to-phagwara,Delhi to Phagwara,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:00,04:30,07h 30m,INR 689,3 Seats available,"4.5
+21",https://www.redbus.in/bus-tickets/delhi-to-phagwara,Delhi to Phagwara,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:45,07:15,08h 30m,INR 669,9 Seats available,"4.5
+17",https://www.redbus.in/bus-tickets/delhi-to-phagwara,Delhi to Phagwara,Punjab
+Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),19:40,04:00,08h 20m,570,3 Seats available,"4.9
+10",https://www.redbus.in/bus-tickets/delhi-to-phagwara,Delhi to Phagwara,Punjab
+Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),22:30,06:05,07h 35m,585,11 Seats available,"4.5
+14",https://www.redbus.in/bus-tickets/delhi-to-phagwara,Delhi to Phagwara,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:15,06:40,08h 25m,INR 679,12 Seats available,"4.9
+8",https://www.redbus.in/bus-tickets/delhi-to-phagwara,Delhi to Phagwara,Punjab
+Golden Temple Volvo Bus Service,A/C Seater / Sleeper (2+2),23:40,07:15,07h 35m,761,19 Seats available,"3.4
+14",https://www.redbus.in/bus-tickets/delhi-to-phagwara,Delhi to Phagwara,Punjab
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:00,07:35,09h 35m,INR 819,12 Seats available,"4.2
+6",https://www.redbus.in/bus-tickets/delhi-to-phagwara,Delhi to Phagwara,Punjab
+IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),23:58,07:15,07h 17m,INR 679,5 Seats available,"3.9
+6",https://www.redbus.in/bus-tickets/delhi-to-phagwara,Delhi to Phagwara,Punjab
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),21:30,07:15,09h 45m,INR 629,41 Seats available,"3.3
+8",https://www.redbus.in/bus-tickets/delhi-to-phagwara,Delhi to Phagwara,Punjab
+Muskan Tour And Travels private Limited,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),22:40,04:30,05h 50m,599,27 Seats available,"2.8
+7",https://www.redbus.in/bus-tickets/delhi-to-phagwara,Delhi to Phagwara,Punjab
+Bhawani Travels,A/C Seater / Sleeper (2+2),23:00,05:30,06h 30m,INR 523.81,7 Seats available,"1.9
+4",https://www.redbus.in/bus-tickets/delhi-to-phagwara,Delhi to Phagwara,Punjab
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:15,06:50,08h 35m,INR 689,40 Seats available,"4.5
+34",https://www.redbus.in/bus-tickets/delhi-to-phagwara,Delhi to Phagwara,Punjab
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),21:00,05:30,08h 30m,INR 649,12 Seats available,4.6,https://www.redbus.in/bus-tickets/delhi-to-phagwara,Delhi to Phagwara,Punjab
+ADTC tour and Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),22:25,04:40,06h 15m,INR 600,7 Seats available,4.0,https://www.redbus.in/bus-tickets/delhi-to-phagwara,Delhi to Phagwara,Punjab
+ADTC tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),22:40,04:45,06h 05m,INR 600,28 Seats available,4.0,https://www.redbus.in/bus-tickets/delhi-to-phagwara,Delhi to Phagwara,Punjab
+Banjara Satguru Travels,A/C Seater / Sleeper (2+2),23:05,05:35,06h 30m,INR 551,31 Seats available,"3.9
+9",https://www.redbus.in/bus-tickets/delhi-to-phagwara,Delhi to Phagwara,Punjab
+Banjara Satguru Travels,A/C Seater / Sleeper (2+2),23:35,05:35,06h 00m,INR 599,33 Seats available,"3.1
+7",https://www.redbus.in/bus-tickets/delhi-to-phagwara,Delhi to Phagwara,Punjab
+Lavish Travels,A/C Seater / Sleeper (2+2),19:30,03:15,07h 45m,INR 449,15 Seats available,"2.7
+7",https://www.redbus.in/bus-tickets/delhi-to-phagwara,Delhi to Phagwara,Punjab
+Indo Canadian Transport Company,A/C Semi Sleeper (2+2),23:30,07:45,08h 15m,INR 2500,44 Seats available,4.6,https://www.redbus.in/bus-tickets/delhi-to-phagwara,Delhi to Phagwara,Punjab
+Indo Canadian Transport Company,A/C Semi Sleeper (2+2),23:30,07:45,08h 15m,INR 2500,44 Seats available,4.6,https://www.redbus.in/bus-tickets/delhi-to-phagwara,Delhi to Phagwara,Punjab
+Indo Canadian Transport Company,Mercedes A/C Semi Sleeper (2+2),23:30,08:45,09h 15m,INR 3300,51 Seats available,4.6,https://www.redbus.in/bus-tickets/delhi-to-phagwara,Delhi to Phagwara,Punjab
+Yolo Bus,VE A/C Seater / Sleeper (2+1),23:50,06:20,06h 30m,INR 820,5 Seats available,4.6,https://www.redbus.in/bus-tickets/delhi-to-phagwara,Delhi to Phagwara,Punjab
+Deltin Travels Pvt Ltd,Bharat Benz A/C Seater /Sleeper (2+1),22:30,06:26,07h 56m,INR 500,34 Seats available,4.1,https://www.redbus.in/bus-tickets/delhi-to-phagwara,Delhi to Phagwara,Punjab
+FlixBus,Bharat Benz A/C Sleeper (2+1),22:30,06:45,08h 15m,INR 1219.64,7 Seats available,4.1,https://www.redbus.in/bus-tickets/delhi-to-phagwara,Delhi to Phagwara,Punjab
+Deltin Travels Pvt Ltd,Bharat Benz A/C Seater /Sleeper (2+1),22:30,06:26,07h 56m,INR 600,16 Seats available,4.1,https://www.redbus.in/bus-tickets/delhi-to-phagwara,Delhi to Phagwara,Punjab
+FlixBus,Bharat Benz A/C Sleeper (2+1),23:30,07:05,07h 35m,INR 1183.04,8 Seats available,4.1,https://www.redbus.in/bus-tickets/delhi-to-phagwara,Delhi to Phagwara,Punjab
+Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),22:00,05:45,07h 45m,618,21 Seats available,4.1,https://www.redbus.in/bus-tickets/delhi-to-phagwara,Delhi to Phagwara,Punjab
+ADTC tour and Travels,Bharat Benz A/C Seater / Sleeper (2+2),22:30,04:45,06h 15m,INR 600,40 Seats available,4.0,https://www.redbus.in/bus-tickets/delhi-to-phagwara,Delhi to Phagwara,Punjab
+Banjara Satguru Travels,A/C Seater / Sleeper (2+1),22:40,05:46,07h 06m,676,38 Seats available,3.6,https://www.redbus.in/bus-tickets/delhi-to-phagwara,Delhi to Phagwara,Punjab
+Northern Travels,Bharat Benz A/C Sleeper (2+1),23:35,06:45,07h 10m,INR 999,24 Seats available,3.2,https://www.redbus.in/bus-tickets/delhi-to-phagwara,Delhi to Phagwara,Punjab
+RK Holiday,A/C Seater / Sleeper (2+2),19:20,01:10,05h 50m,522,39 Seats available,3.1,https://www.redbus.in/bus-tickets/delhi-to-phagwara,Delhi to Phagwara,Punjab
+Goel Tourist (Regd),A/C Seater / Sleeper (2+2),21:40,04:05,06h 25m,INR 600,31 Seats available,3.1,https://www.redbus.in/bus-tickets/delhi-to-phagwara,Delhi to Phagwara,Punjab
+Kingfisher Busline Pvt Ltd,A/C Volvo B11R Multi-Axle Sleeper (2+1),21:00,04:45,07h 45m,INR 1350,36 Seats available,3.0,https://www.redbus.in/bus-tickets/delhi-to-phagwara,Delhi to Phagwara,Punjab
+Big Bus,A/C Seater / Sleeper (2+2),23:25,05:30,06h 05m,INR 579,46 Seats available,2.8,https://www.redbus.in/bus-tickets/delhi-to-phagwara,Delhi to Phagwara,Punjab
+Classic Travels,A/C Seater / Sleeper (2+2),21:35,05:05,07h 30m,INR 599,24 Seats available,2.6,https://www.redbus.in/bus-tickets/delhi-to-phagwara,Delhi to Phagwara,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:20,06:20,08h 00m,INR 979,8 Seats available,"4.3
+352",https://www.redbus.in/bus-tickets/amritsar-to-delhi,Amritsar to Delhi,Punjab
+ADTC tour and Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),21:20,05:10,07h 50m,INR 1199,1 Seat available,"4.3
+280",https://www.redbus.in/bus-tickets/amritsar-to-delhi,Amritsar to Delhi,Punjab
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:45,07:00,08h 15m,INR 1739,5 Seats available,"4.3
+161",https://www.redbus.in/bus-tickets/amritsar-to-delhi,Amritsar to Delhi,Punjab
+AdIntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:30,06:20,08h 50m,INR 979,6 Seats available,"4.3
+174",https://www.redbus.in/bus-tickets/amritsar-to-delhi,Amritsar to Delhi,Punjab
+Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),19:30,04:45,09h 15m,INR 799,4 Seats available,"4.6
+495",https://www.redbus.in/bus-tickets/amritsar-to-delhi,Amritsar to Delhi,Punjab
+Laxmi holidays,Bharat Benz A/C Sleeper (2+1),21:30,06:45,09h 15m,INR 1200,2 Seats available,"4.2
+332",https://www.redbus.in/bus-tickets/amritsar-to-delhi,Amritsar to Delhi,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),20:30,05:30,09h 00m,INR 1049,6 Seats available,"4.4
+264",https://www.redbus.in/bus-tickets/amritsar-to-delhi,Amritsar to Delhi,Punjab
+Laxmi holidays,Bharat Benz A/C Sleeper (2+1),22:30,07:30,09h 00m,INR 1199,1 Seat available,"4.4
+604",https://www.redbus.in/bus-tickets/amritsar-to-delhi,Amritsar to Delhi,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:15,06:15,09h 00m,INR 939,5 Seats available,"4.4
+328",https://www.redbus.in/bus-tickets/amritsar-to-delhi,Amritsar to Delhi,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:00,06:40,08h 40m,INR 979,7 Seats available,"4.1
+190",https://www.redbus.in/bus-tickets/amritsar-to-delhi,Amritsar to Delhi,Punjab
+Yolo Bus,VE A/C Seater / Sleeper (2+1),21:56,06:16,08h 20m,INR 930,2 Seats available,"4.6
+515",https://www.redbus.in/bus-tickets/amritsar-to-delhi,Amritsar to Delhi,Punjab
+Yolo Bus,VE A/C Seater / Sleeper (2+1),19:41,04:18,08h 37m,INR 1720,2 Seats available,"4.5
+397",https://www.redbus.in/bus-tickets/amritsar-to-delhi,Amritsar to Delhi,Punjab
+IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),20:15,05:15,09h 00m,INR 949,6 Seats available,"4.6
+28",https://www.redbus.in/bus-tickets/amritsar-to-delhi,Amritsar to Delhi,Punjab
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),21:00,06:00,09h 00m,INR 1029,8 Seats available,"4.6
+11",https://www.redbus.in/bus-tickets/amritsar-to-delhi,Amritsar to Delhi,Punjab
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),20:45,06:00,09h 15m,INR 1419,7 Seats available,"4.3
+40",https://www.redbus.in/bus-tickets/amritsar-to-delhi,Amritsar to Delhi,Punjab
+Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),20:10,06:40,10h 30m,1430,6 Seats available,"4.5
+126",https://www.redbus.in/bus-tickets/amritsar-to-delhi,Amritsar to Delhi,Punjab
+ADTC tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),21:45,05:15,07h 30m,INR 1399,2 Seats available,"3.5
+87",https://www.redbus.in/bus-tickets/amritsar-to-delhi,Amritsar to Delhi,Punjab
+Golden Temple Volvo Bus Service,A/C Seater / Sleeper (2+1),22:10,06:40,08h 30m,1361,8 Seats available,"3.5
+5",https://www.redbus.in/bus-tickets/amritsar-to-delhi,Amritsar to Delhi,Punjab
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),19:45,05:05,09h 20m,INR 909,3 Seats available,"3.5
+57",https://www.redbus.in/bus-tickets/amritsar-to-delhi,Amritsar to Delhi,Punjab
+K.S Travels,A/C Semi Sleeper / Sleeper (2+2),22:31,06:30,07h 59m,INR 1000,4 Seats available,"3.7
+49",https://www.redbus.in/bus-tickets/amritsar-to-delhi,Amritsar to Delhi,Punjab
+Golden Temple Volvo Bus Service,A/C Seater / Sleeper (2+2),22:45,07:20,08h 35m,1286,6 Seats available,2.5,https://www.redbus.in/bus-tickets/amritsar-to-delhi,Amritsar to Delhi,Punjab
+PEPSU (Punjab) - 67121,Volvo AC Seater (2+2),21:00,06:05,09h 05m,INR 1107,39 Seats available,3.7,https://www.redbus.in/bus-tickets/delhi-airport-to-phagwara,Delhi Airport to Phagwara,Punjab
+Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:20,05:30,07h 10m,INR 612,6 Seats available,"4.6
+153",https://www.redbus.in/bus-tickets/delhi-airport-to-phagwara,Delhi Airport to Phagwara,Punjab
+Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:00,06:00,08h 00m,INR 660,4 Seats available,"4.4
+254",https://www.redbus.in/bus-tickets/delhi-airport-to-phagwara,Delhi Airport to Phagwara,Punjab
+Yolo Bus,VE A/C Seater / Sleeper (2+1),23:20,06:26,07h 06m,INR 660,6 Seats available,"4.8
+67",https://www.redbus.in/bus-tickets/delhi-airport-to-phagwara,Delhi Airport to Phagwara,Punjab
+Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:40,07:10,07h 30m,INR 600,2 Seats available,"4.7
+102",https://www.redbus.in/bus-tickets/delhi-airport-to-phagwara,Delhi Airport to Phagwara,Punjab
+Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:30,07:00,07h 30m,INR 649,5 Seats available,"4.6
+59",https://www.redbus.in/bus-tickets/delhi-airport-to-phagwara,Delhi Airport to Phagwara,Punjab
+New Navyug Travels,A/C Sleeper (2+1),22:45,05:15,06h 30m,INR 625,18 Seats available,"4.0
+108",https://www.redbus.in/bus-tickets/delhi-airport-to-phagwara,Delhi Airport to Phagwara,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),20:30,05:05,08h 35m,INR 859,2 Seats available,"4.7
+44",https://www.redbus.in/bus-tickets/delhi-airport-to-phagwara,Delhi Airport to Phagwara,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:15,07:30,08h 15m,INR 479,14 Seats available,"4.7
+37",https://www.redbus.in/bus-tickets/delhi-airport-to-phagwara,Delhi Airport to Phagwara,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:10,05:50,07h 40m,INR 639,9 Seats available,"4.8
+30",https://www.redbus.in/bus-tickets/delhi-airport-to-phagwara,Delhi Airport to Phagwara,Punjab
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:30,06:50,07h 20m,INR 529,15 Seats available,"4.9
+18",https://www.redbus.in/bus-tickets/delhi-airport-to-phagwara,Delhi Airport to Phagwara,Punjab
+Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),20:00,03:45,07h 45m,INR 659,7 Seats available,"4.5
+27",https://www.redbus.in/bus-tickets/delhi-airport-to-phagwara,Delhi Airport to Phagwara,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:00,04:30,07h 30m,INR 689,3 Seats available,"4.5
+21",https://www.redbus.in/bus-tickets/delhi-airport-to-phagwara,Delhi Airport to Phagwara,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:45,07:15,08h 30m,INR 669,9 Seats available,"4.5
+17",https://www.redbus.in/bus-tickets/delhi-airport-to-phagwara,Delhi Airport to Phagwara,Punjab
+Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),19:40,04:00,08h 20m,INR 600,3 Seats available,"4.9
+10",https://www.redbus.in/bus-tickets/delhi-airport-to-phagwara,Delhi Airport to Phagwara,Punjab
+Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),22:30,06:05,07h 35m,INR 668,11 Seats available,"4.5
+14",https://www.redbus.in/bus-tickets/delhi-airport-to-phagwara,Delhi Airport to Phagwara,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:15,06:40,08h 25m,INR 679,12 Seats available,"4.9
+8",https://www.redbus.in/bus-tickets/delhi-airport-to-phagwara,Delhi Airport to Phagwara,Punjab
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:00,07:35,09h 35m,INR 819,12 Seats available,"4.2
+6",https://www.redbus.in/bus-tickets/delhi-airport-to-phagwara,Delhi Airport to Phagwara,Punjab
+Golden Temple Volvo Bus Service,A/C Seater / Sleeper (2+2),23:40,07:15,07h 35m,INR 886,19 Seats available,"3.4
+14",https://www.redbus.in/bus-tickets/delhi-airport-to-phagwara,Delhi Airport to Phagwara,Punjab
+IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),23:58,07:15,07h 17m,INR 679,5 Seats available,"3.9
+6",https://www.redbus.in/bus-tickets/delhi-airport-to-phagwara,Delhi Airport to Phagwara,Punjab
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),21:30,07:15,09h 45m,INR 629,41 Seats available,"3.3
+8",https://www.redbus.in/bus-tickets/delhi-airport-to-phagwara,Delhi Airport to Phagwara,Punjab
+Muskan Tour And Travels private Limited,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),22:40,04:30,05h 50m,INR 699,27 Seats available,"2.8
+7",https://www.redbus.in/bus-tickets/delhi-airport-to-phagwara,Delhi Airport to Phagwara,Punjab
+Bhawani Travels,A/C Seater / Sleeper (2+2),23:00,05:30,06h 30m,INR 523.81,7 Seats available,"1.9
+4",https://www.redbus.in/bus-tickets/delhi-airport-to-phagwara,Delhi Airport to Phagwara,Punjab
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:15,06:50,08h 35m,INR 689,40 Seats available,"4.5
+34",https://www.redbus.in/bus-tickets/delhi-airport-to-phagwara,Delhi Airport to Phagwara,Punjab
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),21:00,05:30,08h 30m,INR 649,12 Seats available,4.6,https://www.redbus.in/bus-tickets/delhi-airport-to-phagwara,Delhi Airport to Phagwara,Punjab
+ADTC tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),22:40,04:45,06h 05m,INR 600,28 Seats available,4.0,https://www.redbus.in/bus-tickets/delhi-airport-to-phagwara,Delhi Airport to Phagwara,Punjab
+ADTC tour and Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),22:25,04:40,06h 15m,INR 600,7 Seats available,4.0,https://www.redbus.in/bus-tickets/delhi-airport-to-phagwara,Delhi Airport to Phagwara,Punjab
+Banjara Satguru Travels,A/C Seater / Sleeper (2+2),23:05,05:35,06h 30m,INR 551,31 Seats available,"3.9
+9",https://www.redbus.in/bus-tickets/delhi-airport-to-phagwara,Delhi Airport to Phagwara,Punjab
+Banjara Satguru Travels,A/C Seater / Sleeper (2+2),23:35,05:35,06h 00m,INR 599,33 Seats available,"3.1
+7",https://www.redbus.in/bus-tickets/delhi-airport-to-phagwara,Delhi Airport to Phagwara,Punjab
+Lavish Travels,A/C Seater / Sleeper (2+2),19:30,03:15,07h 45m,INR 449,15 Seats available,"2.7
+7",https://www.redbus.in/bus-tickets/delhi-airport-to-phagwara,Delhi Airport to Phagwara,Punjab
+Yolo Bus,VE A/C Seater / Sleeper (2+1),23:50,06:20,06h 30m,INR 820,5 Seats available,4.6,https://www.redbus.in/bus-tickets/delhi-airport-to-phagwara,Delhi Airport to Phagwara,Punjab
+Indo Canadian Transport Company,A/C Semi Sleeper (2+2),23:30,07:45,08h 15m,INR 2500,44 Seats available,4.6,https://www.redbus.in/bus-tickets/delhi-airport-to-phagwara,Delhi Airport to Phagwara,Punjab
+Indo Canadian Transport Company,A/C Semi Sleeper (2+2),23:30,07:45,08h 15m,INR 2500,44 Seats available,4.6,https://www.redbus.in/bus-tickets/delhi-airport-to-phagwara,Delhi Airport to Phagwara,Punjab
+Indo Canadian Transport Company,Mercedes A/C Semi Sleeper (2+2),23:30,08:45,09h 15m,INR 3300,51 Seats available,4.6,https://www.redbus.in/bus-tickets/delhi-airport-to-phagwara,Delhi Airport to Phagwara,Punjab
+Deltin Travels Pvt Ltd,Bharat Benz A/C Seater /Sleeper (2+1),22:30,06:26,07h 56m,INR 600,16 Seats available,4.1,https://www.redbus.in/bus-tickets/delhi-airport-to-phagwara,Delhi Airport to Phagwara,Punjab
+FlixBus,Bharat Benz A/C Sleeper (2+1),23:30,07:05,07h 35m,INR 1183.04,8 Seats available,4.1,https://www.redbus.in/bus-tickets/delhi-airport-to-phagwara,Delhi Airport to Phagwara,Punjab
+FlixBus,Bharat Benz A/C Sleeper (2+1),22:30,06:45,08h 15m,INR 1219.64,7 Seats available,4.1,https://www.redbus.in/bus-tickets/delhi-airport-to-phagwara,Delhi Airport to Phagwara,Punjab
+Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),22:00,05:45,07h 45m,INR 650,21 Seats available,4.1,https://www.redbus.in/bus-tickets/delhi-airport-to-phagwara,Delhi Airport to Phagwara,Punjab
+Deltin Travels Pvt Ltd,Bharat Benz A/C Seater /Sleeper (2+1),22:30,06:26,07h 56m,INR 500,34 Seats available,4.1,https://www.redbus.in/bus-tickets/delhi-airport-to-phagwara,Delhi Airport to Phagwara,Punjab
+ADTC tour and Travels,Bharat Benz A/C Seater / Sleeper (2+2),22:30,04:45,06h 15m,INR 600,40 Seats available,4.0,https://www.redbus.in/bus-tickets/delhi-airport-to-phagwara,Delhi Airport to Phagwara,Punjab
+Banjara Satguru Travels,A/C Seater / Sleeper (2+1),22:40,05:46,07h 06m,INR 751,38 Seats available,3.6,https://www.redbus.in/bus-tickets/delhi-airport-to-phagwara,Delhi Airport to Phagwara,Punjab
+Northern Travels,Bharat Benz A/C Sleeper (2+1),23:35,06:45,07h 10m,INR 999,24 Seats available,3.2,https://www.redbus.in/bus-tickets/delhi-airport-to-phagwara,Delhi Airport to Phagwara,Punjab
+RK Holiday,A/C Seater / Sleeper (2+2),19:20,01:10,05h 50m,INR 399,22 Seats available,3.1,https://www.redbus.in/bus-tickets/delhi-airport-to-phagwara,Delhi Airport to Phagwara,Punjab
+Goel Tourist (Regd),A/C Seater / Sleeper (2+2),21:40,04:05,06h 25m,INR 600,31 Seats available,3.1,https://www.redbus.in/bus-tickets/delhi-airport-to-phagwara,Delhi Airport to Phagwara,Punjab
+Kingfisher Busline Pvt Ltd,A/C Volvo B11R Multi-Axle Sleeper (2+1),21:00,04:45,07h 45m,INR 1350,36 Seats available,3.0,https://www.redbus.in/bus-tickets/delhi-airport-to-phagwara,Delhi Airport to Phagwara,Punjab
+Big Bus,A/C Seater / Sleeper (2+2),23:25,05:30,06h 05m,INR 579,46 Seats available,2.8,https://www.redbus.in/bus-tickets/delhi-airport-to-phagwara,Delhi Airport to Phagwara,Punjab
+Classic Travels,A/C Seater / Sleeper (2+2),21:35,05:05,07h 30m,INR 599,24 Seats available,2.6,https://www.redbus.in/bus-tickets/delhi-airport-to-phagwara,Delhi Airport to Phagwara,Punjab
+Yolo Bus,VE A/C Seater / Sleeper (2+1),22:11,06:16,08h 05m,INR 930,2 Seats available,"4.6
+515",https://www.redbus.in/bus-tickets/amritsar-to-delhi-airport,Amritsar to Delhi Airport,Punjab
+Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),19:30,04:45,09h 15m,INR 799,4 Seats available,"4.6
+495",https://www.redbus.in/bus-tickets/amritsar-to-delhi-airport,Amritsar to Delhi Airport,Punjab
+Laxmi holidays,Bharat Benz A/C Sleeper (2+1),22:30,07:30,09h 00m,INR 1199,1 Seat available,"4.4
+604",https://www.redbus.in/bus-tickets/amritsar-to-delhi-airport,Amritsar to Delhi Airport,Punjab
+AdIntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:00,06:40,08h 40m,INR 979,7 Seats available,"4.1
+190",https://www.redbus.in/bus-tickets/amritsar-to-delhi-airport,Amritsar to Delhi Airport,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:15,06:15,09h 00m,INR 1739,4 Seats available,"4.4
+328",https://www.redbus.in/bus-tickets/amritsar-to-delhi-airport,Amritsar to Delhi Airport,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),20:30,05:30,09h 00m,INR 859,4 Seats available,"4.4
+264",https://www.redbus.in/bus-tickets/amritsar-to-delhi-airport,Amritsar to Delhi Airport,Punjab
+Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),20:20,06:40,10h 20m,INR 1230,6 Seats available,"4.5
+126",https://www.redbus.in/bus-tickets/amritsar-to-delhi-airport,Amritsar to Delhi Airport,Punjab
+AdIntrCity SmartBus,A/C Seater / Sleeper (2+1),22:45,07:00,08h 15m,INR 1739,5 Seats available,"4.3
+161",https://www.redbus.in/bus-tickets/amritsar-to-delhi-airport,Amritsar to Delhi Airport,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:20,06:20,08h 00m,INR 979,8 Seats available,"4.3
+352",https://www.redbus.in/bus-tickets/amritsar-to-delhi-airport,Amritsar to Delhi Airport,Punjab
+ADTC tour and Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),21:20,05:10,07h 50m,INR 1199,1 Seat available,"4.3
+280",https://www.redbus.in/bus-tickets/amritsar-to-delhi-airport,Amritsar to Delhi Airport,Punjab
+Yolo Bus,VE A/C Seater / Sleeper (2+1),19:56,04:18,08h 22m,INR 1680,2 Seats available,"4.5
+397",https://www.redbus.in/bus-tickets/amritsar-to-delhi-airport,Amritsar to Delhi Airport,Punjab
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:30,06:20,08h 50m,INR 939,6 Seats available,"4.3
+174",https://www.redbus.in/bus-tickets/amritsar-to-delhi-airport,Amritsar to Delhi Airport,Punjab
+Laxmi holidays,Bharat Benz A/C Sleeper (2+1),21:30,06:45,09h 15m,INR 1200,2 Seats available,"4.2
+332",https://www.redbus.in/bus-tickets/amritsar-to-delhi-airport,Amritsar to Delhi Airport,Punjab
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),20:45,06:00,09h 15m,INR 1319,6 Seats available,"4.3
+40",https://www.redbus.in/bus-tickets/amritsar-to-delhi-airport,Amritsar to Delhi Airport,Punjab
+ADTC tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),21:45,05:15,07h 30m,INR 1399,2 Seats available,"3.5
+87",https://www.redbus.in/bus-tickets/amritsar-to-delhi-airport,Amritsar to Delhi Airport,Punjab
+IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),20:15,05:15,09h 00m,INR 949,5 Seats available,"4.6
+28",https://www.redbus.in/bus-tickets/amritsar-to-delhi-airport,Amritsar to Delhi Airport,Punjab
+K.S Travels,A/C Semi Sleeper / Sleeper (2+2),22:45,06:30,07h 45m,INR 1000,4 Seats available,"3.7
+49",https://www.redbus.in/bus-tickets/amritsar-to-delhi-airport,Amritsar to Delhi Airport,Punjab
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),19:45,05:05,09h 20m,INR 909,2 Seats available,"3.5
+57",https://www.redbus.in/bus-tickets/amritsar-to-delhi-airport,Amritsar to Delhi Airport,Punjab
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),21:00,06:00,09h 00m,INR 799,8 Seats available,"4.6
+11",https://www.redbus.in/bus-tickets/amritsar-to-delhi-airport,Amritsar to Delhi Airport,Punjab
+Golden Temple Volvo Bus Service,A/C Seater / Sleeper (2+1),22:10,06:40,08h 30m,INR 1486,8 Seats available,"3.5
+5",https://www.redbus.in/bus-tickets/amritsar-to-delhi-airport,Amritsar to Delhi Airport,Punjab
+Golden Temple Volvo Bus Service,A/C Seater / Sleeper (2+2),22:45,07:20,08h 35m,INR 1411,6 Seats available,2.5,https://www.redbus.in/bus-tickets/amritsar-to-delhi-airport,Amritsar to Delhi Airport,Punjab
+PEPSU (Punjab) - 67064,Volvo AC Seater (2+2),23:58,09:58,10h 00m,INR 1226,37 Seats available,3.7,https://www.redbus.in/bus-tickets/delhi-airport-to-kapurthala,Delhi Airport to Kapurthala,Punjab
+GK Travels,Bharat Benz A/C Seater /Sleeper (2+1),21:00,01:30,04h 30m,759,15 Seats available,3.7,https://www.redbus.in/bus-tickets/amritsar-to-patiala,Amritsar to Patiala,Punjab
